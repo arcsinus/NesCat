@@ -1,29 +1,29 @@
-//MEOW?                                                           
-//                                                ▄▄         
-//                        ▓▀██▄                ▄▓█▀▓▓       
-//                       ▐▌░ ▀███▄          ▄███▀  ░▓▒      
-//                       ▓▌ ░░░▒██████████████▓░▒░░░▓▌      
-//             ▄▄▄██████▄▓▌ ░▒▒▒▒▀██████████████▄░░░▓▌      
-//          ▄█████████████▌░▒▒▒▒▒▄████████████████▒▐▌       
-//        ▄████████████████▌▄▄▄█████████▒░█████████▓▒       
-//       ▐████████████████████████████▓    ▀████████░       
-//      ▐███████▀▒▒▄▒    ▓██████████▓       ▀▓██████▒       
-//      ▐▌    ▒▒     ░▓▒ ▓███████▀▀▀▓▓▄    ▄▓▓▀▀███▌        
-//     ▐▓▌             ░▒▒▓▓▒░        ▀▀  ▀▀     ▐▓▌        
-//    ▐██▌              ▒▒▒▓▓▓▒         ▒▒     ▄▓█▓▒         
-//   ▐████▒            ▒▓▒ ░▓▓▓▓▒▒▒▒▒▒▒▓▓▓▄▓▓▓▓███▀░░░░░░   
-//   ▐██████▓▄▄▄▄▄▄▄▄▄▄▓▓▄▄░            ░▓▒ ▒░░▓▓░░░░░      
-//   ░▓█████████████████████▓▒▄▄▄▄▄▄▄▄▓▓▓▓▓▓▓▓▓█▓░░░        
-//▒▒▒░▒▒▓██████████████████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▒▒▒    ░░     ▒▒   
-//▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░▄▄▒▒▒▒▒▒▒▒░ ░░░░     ▒▓▒    
-//▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░▄▓██████▓▒    ░      ░▓▓▀     
-//▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓███████▀    ░      ▄▓▓▓       
-// ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄▒▒▒▒▒▒▒▒▒▒░▓██████▌▒▒▒▒░     ▒▓▒▒         
-//  ▓▓▓▓▓▓▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓██████▌▒▒▒▒▒   ▒▓▒▒           
-//     ▀▀▀▀▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██████▌▒▒▒▒▒░ ▓▒▒░            
-//             ▀▀▀▀▓▓▓▓▓▓▓▓▓▓▓███████▓▓▓▓▓▓▒▒               
-//                      ▀▀▀▓▓▓███████▓▓▓▓▓▒                 
-//                               ▀▀▀▀▓▓▓▓▒                                                                              
+//MEOW?
+//                                                ▄▄
+//                        ▓▀██▄                ▄▓█▀▓▓
+//                       ▐▌░ ▀███▄          ▄███▀  ░▓▒
+//                       ▓▌ ░░░▒██████████████▓░▒░░░▓▌
+//             ▄▄▄██████▄▓▌ ░▒▒▒▒▀██████████████▄░░░▓▌
+//          ▄█████████████▌░▒▒▒▒▒▄████████████████▒▐▌
+//      ▄████████████████▌▄▄▄█████████▒░█████████▓▒
+//       ████████████████████████████▓    ▀████████░
+//     ▐███████▀▒▒▄▒    ▓██████████▓       ▀▓██████▒
+//     ▐▌    ▒▒     ░▓▒ ▓███████▀▀▀▓▓▄    ▄▓▓▀▀███▌
+//    ▐▓▌             ░▒▒▓▓▒░        ▀▀  ▀▀     ▐▓▌
+//    ▐██▌              ▒▒▒▓▓▓▒         ▒▒     ▄▓█▓▒
+//   ▐████▒            ▒▓▒ ░▓▓▓▓▒▒▒▒▒▒▒▓▓▓▄▓▓▓▓███▀░░░░░░
+//   ▐██████▓▄▄▄▄▄▄▄▄▄▄▓▓▄▄░            ░▓▒ ▒░░▓▓░░░░░
+//   ░▓█████████████████████▓▒▄▄▄▄▄▄▄▄▓▓▓▓▓▓▓▓▓█▓░░░
+//▒▒▒░▒▒▓██████████████████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▒▒▒    ░░     ▒▒
+//▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░▄▄▒▒▒▒▒▒▒▒░ ░░░░     ▒▓▒
+//▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░▄▓██████▓▒    ░      ░▓▓▀
+//▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓███████▀    ░      ▄▓▓▓
+// ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▄▒▒▒▒▒▒▒▒▒▒░▓██████▌▒▒▒▒░     ▒▓▒▒
+//  ▓▓▓▓▓▓▓█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓██████▌▒▒▒▒▒   ▒▓▒▒
+//     ▀▀▀▀▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██████▌▒▒▒▒▒░ ▓▒▒░
+//             ▀▀▀▀▓▓▓▓▓▓▓▓▓▓▓███████▓▓▓▓▓▓▒▒
+//                      ▀▀▀▓▓▓███████▓▓▓▓▓▒
+//                               ▀▀▀▀▓▓▓▓▒
 //********************************************************************************
 //*                                                                              *
 //*   NESCAT by Nathalis                                                         *
@@ -57,27 +57,30 @@
 
 #define NES_FOLDER ("/NES/")
 
-#define BLUETOOTH_ENABLED
-#define KEYBOARD_ENABLED
+// #define BLUETOOTH_ENABLED
+// #define KEYBOARD_ENABLED
 #define LCD_ENABLED true
 #define SOUND_ENABLED true
-#define COMPOSITE_VIDEO_ENABLED
+// #define COMPOSITE_VIDEO_ENABLED
 
 #define DEBUG true //Serial debugging enable.
 #define DEBUGEXTRA false //Extra Serial debugging enable.
 
 //================================================================================
 
-#define PIN_UP     39  //SVN
-#define PIN_DOWN   35  //IO35
-#define PIN_LEFT   36  //SVP
-#define PIN_RIGHT  34  //IO34
-#define PIN_A      2   //IO2
-#define PIN_B      14  //TMS
-#define PIN_START  15  //TDO
-#define PIN_SELECT 13  //TCK
+#define PIN_UP      4 // +
+#define PIN_DOWN   15 // +
+#define PIN_LEFT   16 //
+#define PIN_RIGHT   2 // +
+
+#define PIN_START  36 //
+#define PIN_SELECT 39 //
+#define PIN_A      34 //
+#define PIN_B      35 //
+
 
 ///!!! do not forget 1KOHM resistors
+// https://lastminuteengineers.com/esp32-wroom-32-pinout-reference/
 
 #define KEYBOARD_DATA 4  /// ---[ 1K ]--- // -D
 #define KEYBOARD_CLK 0  /// ---[ 1K ]--- // +D
@@ -90,6 +93,8 @@
 #define I2S_WS_IO  (GPIO_NUM_32) //LCK
 #define I2S_DO_IO  (GPIO_NUM_25) //DIN
 #define I2S_DI_IO  (-1)
+#define I2S_PORT  I2S_NUM_1
+//https://github.com/tommag/PCM51xx_Arduino/blob/master/examples/ESP32_3_Wire_I2S/ESP32_3_Wire_I2S.ino
 
 //LCD_ST7789:
 #define TFT_CS   -1  // define chip select pin
@@ -99,10 +104,14 @@
 #define TFT_SCLK 18  // Clock out (SCL) //better not change
 
 //micro_SD_Card:
-#define SOFTSD_MOSI_PIN (GPIO_NUM_17)
-#define SOFTSD_MISO_PIN (GPIO_NUM_16)
-#define SOFTSD_SCK_PIN (GPIO_NUM_21)
-#define SD_CS_PIN GPIO_NUM_22
+// #define SOFTSD_MOSI_PIN (GPIO_NUM_17)
+// #define SOFTSD_MISO_PIN (GPIO_NUM_16)
+// #define SOFTSD_SCK_PIN (GPIO_NUM_21)
+// #define SD_CS_PIN GPIO_NUM_22
+#define SOFTSD_MOSI_PIN 33
+#define SOFTSD_MISO_PIN 13
+#define SOFTSD_SCK_PIN 14
+#define SD_CS_PIN 22
 
 //================================================================================
 
@@ -211,8 +220,8 @@ const uint16_t nes_16bit[64] = {
 #include <SPI.h>
 
 //micro_SD_Card:
+#define ENABLE_SOFTWARE_SPI_CLASS 1  // Must be set in SdFat/SdFatConfig.h !!!
 #include <SdFat.h>
-///#define ENABLE_SOFTWARE_SPI_CLASS 1  // Must be set in SdFat/SdFatConfig.h !!!
 
 //AUDIO_i2S:
 #ifdef SOUND_ENABLED
@@ -224,7 +233,7 @@ const uint16_t nes_16bit[64] = {
 
 //LCD_ST7789
 #define ST7789_DRIVER     // Configure all registers
-#define TFT_WIDTH  240
+#define TFT_WIDTH  320
 #define TFT_HEIGHT 240
 #define LOAD_GLCD   // Font 1. Original Adafruit 8 pixel font needs ~1820 bytes in FLASH
 #define LOAD_FONT2  // Font 2. Small 16 pixel high font, needs ~3534 bytes in FLASH, 96 characters
@@ -272,7 +281,7 @@ SdFile file;
 // Visible (NTSC) screen height
 #ifndef NES_VISIBLE_HEIGHT
 #define  NES_VISIBLE_HEIGHT   240
-#endif // !NES_VISIBLE_HEIGHT 
+#endif // !NES_VISIBLE_HEIGHT
 #define  NES_SCREEN_WIDTH     256
 #define  NES_SCREEN_HEIGHT    240
 
@@ -596,7 +605,7 @@ uint8_t get_pad0(void) {
 
   if (digitalRead(PIN_SELECT) == 1 && digitalRead(PIN_START) == 1) NES_POWER = 0; //EXIT
 
-  //EJECT EMULATOR 
+  //EJECT EMULATOR
   if (JOY_SHARE == 1 && JOY_OPTIONS == 1) {
     JOY_SHARE = 0;
     JOY_OPTIONS = 0;
@@ -747,10 +756,10 @@ IRAM_ATTR int osd_installtimer_1(int frequency, void *func, int funcsize, void *
 volatile int time_ticks = 0;
 IRAM_ATTR static void timer_isr(void)
 {
-  /*#ifdef BLUETOOTH_ENABLED
+  #ifdef BLUETOOTH_ENABLED
     /// hid_update();
     ///PS4_JOY();
-    #endif*/ //this causes crashing
+  #endif //this causes crashing
 
   if (audio_callback && NES_POWER == 1) do_audio_frame();
   time_ticks++;
@@ -812,8 +821,8 @@ i2s_config_t audio_cfg = {
 int init_sound(void)
 {
 #ifdef SOUND_ENABLED
-  i2s_driver_install(I2S_NUM_1, &audio_cfg, 0, NULL);
-  i2s_set_pin(I2S_NUM_1, &pin_config);
+  i2s_driver_install(I2S_PORT, &audio_cfg, 0, NULL);
+  i2s_set_pin(I2S_PORT, &pin_config);
 #endif
   audio_callback = NULL;
   return 0;
@@ -839,7 +848,7 @@ void osd_getsoundinfo(sndinfo_t *info)
 //--------------------------------------------------------------------------------
 
 //--------------------------------------------------------------------------------
-#if SOUND_ENABLED
+#ifdef SOUND_ENABLED
 QueueHandle_t queue;
 //  uint16_t audio_frame[DEFAULT_FRAGSIZE];
 uint16_t audio_frame[2 * DEFAULT_FRAGSIZE];
@@ -849,7 +858,7 @@ void do_audio_frame()
 {
   ///printf("do_audio_frame\n");
 
-#if SOUND_ENABLED
+#ifdef SOUND_ENABLED
   int left = DEFAULT_SAMPLERATE / NES_REFRESH_RATE;
   while (left)
   {
@@ -873,7 +882,7 @@ void do_audio_frame()
     size_t i2s_bytes_write;
     // i2s_write(I2S_NUM_0, (const char *)audio_frame, 2 * n, &i2s_bytes_write, portMAX_DELAY);
     // left -= i2s_bytes_write / 2;
-    i2s_write(I2S_NUM_1, (const char *)audio_frame, 4 * n, &i2s_bytes_write, portMAX_DELAY);
+    i2s_write(I2S_PORT, (const char *)audio_frame, 4 * n, &i2s_bytes_write, portMAX_DELAY);
     left -= i2s_bytes_write / 4;
   }
 
@@ -1031,8 +1040,11 @@ char* NESMENU() {
   bool NamesDisplayed = false;
 
   while (1) {
+#ifdef BLUETOOTH_ENABLED
     hid_update();
     PS4_JOY();
+#endif
+
 
     PAGE = CURSOR / FILESPERPAGE;
 
@@ -1215,7 +1227,7 @@ unsigned char *getromdata(char* ROMFILENAME_)
 // P (flag) register bitmasks
 #define  N_FLAG         0x80
 #define  V_FLAG         0x40
-#define  R_FLAG         0x20  // Reserved, always 1 
+#define  R_FLAG         0x20  // Reserved, always 1
 #define  B_FLAG         0x10
 #define  D_FLAG         0x08
 #define  I_FLAG         0x04
@@ -1450,7 +1462,7 @@ typedef struct noise_s {
 #else
   bool short_sample;
   int cur_pos;
-#endif // REALTIME_NOISE 
+#endif // REALTIME_NOISE
 } noise_t;
 
 typedef struct dmc_s
@@ -1977,7 +1989,7 @@ static uint8_t null_page[NES6502_BANKSIZE];
 
 #define  ADD_CYCLES(x) { remaining_cycles -= (x); cpu.total_cycles += (x); }
 #define PAGE_CROSS_CHECK(addr, reg) { if ((reg) > (uint8_t) (addr)) ADD_CYCLES(1); }
-#define EMPTY_READ(value)  // empty 
+#define EMPTY_READ(value)  // empty
 #define IMMEDIATE_BYTE(value) { value = bank_readbyte(PC++); }
 #define ABSOLUTE_ADDR(address) { address = bank_readword(PC); PC += 2; }
 #define ABSOLUTE(address, value) { ABSOLUTE_ADDR(address); value = mem_readbyte(address); }
@@ -2025,10 +2037,10 @@ static uint8_t null_page[NES6502_BANKSIZE];
       v_flag = ((~(A ^ data)) & (A ^ temp) & 0x80); if (temp > 0x90) { temp += 0x60; c_flag = 1; } else { c_flag = 0; } \
       A = (uint8_t) temp; } else { temp = A + data + c_flag; c_flag = (temp >> 8) & 1; v_flag = ((~(A ^ data)) & (A ^ temp) & 0x80); \
       A = (uint8_t) temp; SET_NZ_FLAGS(A); } ADD_CYCLES(cycles); }
-#else // NES6502_DECIMAL 
+#else // NES6502_DECIMAL
 #define ADC(cycles, read_func) { read_func(data); temp = A + data + c_flag; c_flag = (temp >> 8) & 1; \
     v_flag = ((~(A ^ data)) & (A ^ temp) & 0x80); A = (uint8_t) temp; SET_NZ_FLAGS(A); ADD_CYCLES(cycles); }
-#endif // NES6502_DECIMAL 
+#endif // NES6502_DECIMAL
 
 #define ANC(cycles, read_func) { read_func(data); A &= data; c_flag = (n_flag & N_FLAG) >> 7; SET_NZ_FLAGS(A); ADD_CYCLES(cycles); }
 #define AND(cycles, read_func) { read_func(data); A &= data; SET_NZ_FLAGS(A); ADD_CYCLES(cycles); }
@@ -2040,10 +2052,10 @@ static uint8_t null_page[NES6502_BANKSIZE];
       if (((data & 0xF0) + (data & 0x10)) > 0x50) { temp = (temp & 0x0F) | ((temp + 0x60) & 0xF0); c_flag = 1; } else { \
         c_flag = 0; } A = (uint8_t) temp; } else { A = (data >> 1) | (c_flag << 7); SET_NZ_FLAGS(A); c_flag = (A & 0x40) >> 6; \
       v_flag = ((A >> 6) ^ (A >> 5)) & 1; } ADD_CYCLES(cycles); }
-#else // NES6502_DECIMAL 
+#else // NES6502_DECIMAL
 #define ARR(cycles, read_func) { read_func(data); data &= A; A = (data >> 1) | (c_flag << 7); \
     SET_NZ_FLAGS(A); c_flag = (A & 0x40) >> 6; v_flag = ((A >> 6) ^ (A >> 5)) & 1; ADD_CYCLES(cycles); }
-#endif // NES6502_DECIMAL 
+#endif // NES6502_DECIMAL
 
 #define ASL(cycles, read_func, write_func, addr) { read_func(addr, data); c_flag = data >> 7; data <<= 1; write_func(addr, data); \
     SET_NZ_FLAGS(data); ADD_CYCLES(cycles); }
@@ -2083,9 +2095,9 @@ static uint8_t null_page[NES6502_BANKSIZE];
 
 #ifdef NES6502_TESTOPS
 #define JAM() { cpu_Jam(); }
-#else // !NES6502_TESTOPS 
+#else // !NES6502_TESTOPS
 #define JAM() { PC--; cpu.jammed = true; cpu.int_pending = 0; ADD_CYCLES(2); }
-#endif // !NES6502_TESTOPS 
+#endif // !NES6502_TESTOPS
 
 #define JMP_INDIRECT() { temp = bank_readword(PC); if (0xFF == (temp & 0xFF)) \
       PC = (bank_readbyte(temp & 0xFF00) << 8) | bank_readbyte(temp); else JUMP(temp); ADD_CYCLES(5); }
@@ -2130,7 +2142,7 @@ static uint8_t null_page[NES6502_BANKSIZE];
 #else
 #define SBC(cycles, read_func) { read_func(data); temp = A - data - (c_flag ^ 1); v_flag = (A ^ data) & (A ^ temp) & 0x80; \
     c_flag = ((temp >> 8) & 1) ^ 1; A = (uint8_t) temp; SET_NZ_FLAGS(A); ADD_CYCLES(cycles); }
-#endif // NES6502_DECIMAL 
+#endif // NES6502_DECIMAL
 #define SBX(cycles, read_func) { read_func(data); temp = (A & X) - data; c_flag = ((temp >> 8) & 1) ^ 1; X = temp & 0xFF; \
     SET_NZ_FLAGS(X); ADD_CYCLES(cycles); }
 #define SEC() { c_flag = 1; ADD_CYCLES(2); }
@@ -2169,7 +2181,7 @@ static inline uint32_t zp_readword(register uint8_t address) {
 static inline uint32_t bank_readword(register uint32_t address) {
   return (uint32_t) (*(uint16_t *)(cpu.mem_page[address >> NES6502_BANKSHIFT] + (address & NES6502_BANKMASK)));
 }
-#else // !HOST_LITTLE_ENDIAN 
+#else // !HOST_LITTLE_ENDIAN
 static inline uint32_t zp_readword(register uint8_t address) {
   uint32_t x = (uint32_t) * (uint16_t *)(ram + address);
   return (x << 8) | (x >> 8);
@@ -2179,7 +2191,7 @@ static inline uint32_t bank_readword(register uint32_t address) {
   uint32_t x = (uint32_t) * (uint16_t *)(cpu.mem_page[address >> NES6502_BANKSHIFT] + (address & NES6502_BANKMASK));
   return (x << 8) | (x >> 8);
 }
-#endif // !HOST_LITTLE_ENDIAN 
+#endif // !HOST_LITTLE_ENDIAN
 
 static inline uint8_t bank_readbyte(register uint32_t address) {
   return cpu.mem_page[address >> NES6502_BANKSHIFT][address & NES6502_BANKMASK];
@@ -2257,10 +2269,10 @@ uint32_t nes6502_getcycles(bool reset_flag) {
 #ifdef NES6502_JUMPTABLE
 #define  OPCODE_BEGIN(xx)  op##xx:
 #define  OPCODE_END if (remaining_cycles <= 0) goto end_execute; goto *opcode_table[bank_readbyte(PC++)];
-#else // !NES6502_JUMPTABLE 
+#else // !NES6502_JUMPTABLE
 #define  OPCODE_BEGIN(xx)  case 0x##xx:
 #define  OPCODE_END        break;
-#endif // !NES6502_JUMPTABLE 
+#endif // !NES6502_JUMPTABLE
 
 
 int nes6502_execute(int timeslice_cycles) {
@@ -2312,7 +2324,7 @@ int nes6502_execute(int timeslice_cycles) {
     &&opF0, &&opF1, &&opF2, &&opF3, &&opF4, &&opF5, &&opF6, &&opF7,
     &&opF8, &&opF9, &&opFA, &&opFB, &&opFC, &&opFD, &&opFE, &&opFF
   };
-#endif // NES6502_JUMPTABLE 
+#endif // NES6502_JUMPTABLE
 
   remaining_cycles = timeslice_cycles;
   GET_GLOBAL_REGS();
@@ -2331,12 +2343,12 @@ int nes6502_execute(int timeslice_cycles) {
   }
 #ifdef NES6502_JUMPTABLE
   OPCODE_END
-#else // !NES6502_JUMPTABLE 
+#else // !NES6502_JUMPTABLE
 
   // Continue until we run out of cycles
   while (remaining_cycles > 0) {
     switch (bank_readbyte(PC++)) {
-#endif // !NES6502_JUMPTABLE 
+#endif // !NES6502_JUMPTABLE
 
   OPCODE_BEGIN(00)  // BRK
   BRK();
@@ -3266,10 +3278,10 @@ int nes6502_execute(int timeslice_cycles) {
   OPCODE_END
 #ifdef NES6502_JUMPTABLE
 end_execute:
-#else // !NES6502_JUMPTABLE 
+#else // !NES6502_JUMPTABLE
 }
 }
-#endif // !NES6502_JUMPTABLE 
+#endif // !NES6502_JUMPTABLE
   STORE_LOCAL_REGS();
   return (cpu.total_cycles - old_cycles);
 }
@@ -4123,9 +4135,9 @@ void ppu_scanline(int scanline, bool draw_flag) {
     ppu.strike_cycle = (uint32_t) - 1;
     ppu.vram_accessible = false;
   }
-    
+
   if (LCD_ENABLED) xQueueSend(vidQueue, &SCREENMEMORY, 0); //refresh LCD
-  
+
 }
 
 void ppu_destroy(ppu_t **src_ppu);
@@ -4157,7 +4169,7 @@ int trilength_lut[128];
 #ifndef REALTIME_NOISE
 int8_t noise_long_lut[APU_NOISE_32K];
 int8_t noise_short_lut[APU_NOISE_93];
-#endif // !REALTIME_NOISE 
+#endif // !REALTIME_NOISE
 
 // vblank length table used for rectangles, triangle, noise
 const uint8_t vbl_length[32] = {
@@ -4234,7 +4246,7 @@ int8_t shift_register15(uint8_t xor_tap)
   sreg |= (bit14 << 14);
   return (bit0 ^ 1);
 }
-#else // !REALTIME_NOISE 
+#else // !REALTIME_NOISE
 void shift_register15(int8_t *buf, int count)
 {
   int sreg = 0x4000;
@@ -4262,7 +4274,7 @@ void shift_register15(int8_t *buf, int count)
     }
   }
 }
-#endif // !REALTIME_NOISE 
+#endif // !REALTIME_NOISE
 
 // RECTANGLE WAVE
 // ==============
@@ -4352,7 +4364,7 @@ void shift_register15(int8_t *buf, int count)
     return APU_RECTANGLE_OUTPUT(ch); \
   }
 
-#else // !APU_OVERSAMPLE 
+#else // !APU_OVERSAMPLE
 #define  APU_MAKE_RECTANGLE(ch) \
   int32_t apu_rectangle_##ch(void) \
   { \
@@ -4424,7 +4436,7 @@ void shift_register15(int8_t *buf, int count)
     return APU_RECTANGLE_OUTPUT(ch); \
   }
 
-#endif // !APU_OVERSAMPLE 
+#endif // !APU_OVERSAMPLE
 
 // generate the functions
 APU_MAKE_RECTANGLE(0)
@@ -4488,13 +4500,13 @@ int32_t apu_noise(void)
   int32_t outvol;
 
 #if defined(APU_OVERSAMPLE) && defined(REALTIME_NOISE)
-#else // !(APU_OVERSAMPLE && REALTIME_NOISE) 
+#else // !(APU_OVERSAMPLE && REALTIME_NOISE)
   int32_t noise_bit;
-#endif // !(APU_OVERSAMPLE && REALTIME_NOISE) 
+#endif // !(APU_OVERSAMPLE && REALTIME_NOISE)
 #ifdef APU_OVERSAMPLE
   int num_times;
   int32_t total;
-#endif // APU_OVERSAMPLE 
+#endif // APU_OVERSAMPLE
 
   APU_VOLUME_DECAY(apu.noise.output_vol);
 
@@ -4528,7 +4540,7 @@ int32_t apu_noise(void)
     outvol = (apu.noise.env_vol ^ 0x0F) << 8;
 
   num_times = total = 0;
-#endif // APU_OVERSAMPLE 
+#endif // APU_OVERSAMPLE
 
   while (apu.noise.accum < 0)
   {
@@ -4543,11 +4555,11 @@ int32_t apu_noise(void)
       total -= outvol;
 
     num_times++;
-#else // !APU_OVERSAMPLE 
+#else // !APU_OVERSAMPLE
     noise_bit = shift_register15(apu.noise.xor_tap);
-#endif // !APU_OVERSAMPLE 
+#endif // !APU_OVERSAMPLE
 
-#else // !REALTIME_NOISE 
+#else // !REALTIME_NOISE
     apu.noise.cur_pos++;
 
     if (apu.noise.short_sample)    {
@@ -4568,24 +4580,24 @@ int32_t apu_noise(void)
     else total -= outvol;
 
     num_times++;
-#endif // APU_OVERSAMPLE 
-#endif // !REALTIME_NOISE 
+#endif // APU_OVERSAMPLE
+#endif // !REALTIME_NOISE
   }
 
 #ifdef APU_OVERSAMPLE
   apu.noise.output_vol = total / num_times;
-#else // !APU_OVERSAMPLE 
+#else // !APU_OVERSAMPLE
   if (apu.noise.fixed_envelope) outvol = apu.noise.volume << 8; // fixed volume
   else outvol = (apu.noise.env_vol ^ 0x0F) << 8;
 
 #ifndef REALTIME_NOISE
   if (apu.noise.short_sample) noise_bit = noise_short_lut[apu.noise.cur_pos];
   else noise_bit = noise_long_lut[apu.noise.cur_pos];
-#endif // !REALTIME_NOISE 
+#endif // !REALTIME_NOISE
 
   if (noise_bit) apu.noise.output_vol = outvol;
   else apu.noise.output_vol = -outvol;
-#endif // !APU_OVERSAMPLE 
+#endif // !APU_OVERSAMPLE
   return APU_NOISE_OUTPUT;
 }
 
@@ -4748,7 +4760,7 @@ void apu_write(uint32_t address, uint8_t value) {
         apu.noise.freq = noise_freq[value & 0x0F];
 #ifdef REALTIME_NOISE
         apu.noise.xor_tap = (value & 0x80) ? 0x40 : 0x02;
-#else // !REALTIME_NOISE 
+#else // !REALTIME_NOISE
         // detect transition from long->short sample
         if ((value & 0x80) && false == apu.noise.short_sample) {
           // recalculate short noise buffer
@@ -4756,7 +4768,7 @@ void apu_write(uint32_t address, uint8_t value) {
           apu.noise.cur_pos = 0;
         }
         apu.noise.short_sample = (value & 0x80) ? true : false;
-#endif // !REALTIME_NOISE 
+#endif // !REALTIME_NOISE
         break;
       case APU_WRD3:
         apu.noise.regs[2] = value;
@@ -4941,7 +4953,7 @@ void apu_build_luts(int num_samples) {
   // generate noise samples
   shift_register15(noise_long_lut, APU_NOISE_32K);
   shift_register15(noise_short_lut, APU_NOISE_93);
-#endif // !REALTIME_NOISE 
+#endif // !REALTIME_NOISE
 }
 
 void apu_setparams(double base_freq, int sample_rate, int refresh_rate, int sample_bits)
@@ -5330,7 +5342,7 @@ nes_t *nes_create(void) {
   machine->cpu->read_handler = machine->readhandler;
   machine->cpu->write_handler = machine->writehandler;
 
-  
+
   // apu
   if (SOUND_ENABLED) {
     osd_getsoundinfo(&osd_sound);
@@ -5591,14 +5603,14 @@ void setup() {
 
 //--------------------------------------------------------------------------------
 
-  pinMode(PIN_A, INPUT);    //A
-  pinMode(PIN_B, INPUT);   //B
-  pinMode(PIN_SELECT, INPUT);   //SELECT
-  pinMode(PIN_START, INPUT);   //START
-  pinMode(PIN_UP, INPUT);    //UP
-  pinMode(PIN_DOWN, INPUT);   //DOWN  //TCK
-  pinMode(PIN_LEFT, INPUT);       //LEFT
-  pinMode(PIN_RIGHT, INPUT);  //RIGHT
+  pinMode(PIN_A, INPUT_PULLDOWN);    //A
+  pinMode(PIN_B, INPUT_PULLDOWN);   //B
+  pinMode(PIN_SELECT, INPUT_PULLDOWN);   //SELECT
+  pinMode(PIN_START, INPUT_PULLDOWN);   //START
+  pinMode(PIN_UP, INPUT_PULLDOWN);    //UP
+  pinMode(PIN_DOWN, INPUT_PULLDOWN);   //DOWN  //TCK
+  pinMode(PIN_LEFT, INPUT_PULLDOWN);       //LEFT
+  pinMode(PIN_RIGHT, INPUT_PULLDOWN);  //RIGHT
 
 //--------------------------------------------------------------------------------
 // BLUETOOTH PS4 DUALSHOCK SUPPORT
@@ -5620,12 +5632,13 @@ void setup() {
 //--------------------------------------------------------------------------------
 #ifdef LCD_ENABLED
   // if the display has CS pin try with SPI_MODE0
-  tft.init(240, 240, SPI_MODE2);    // Init ST7789 display 240x240 pixel
+  tft.init(TFT_HEIGHT, TFT_WIDTH, SPI_MODE3);    // Init ST7789 display 240x240 pixel
   // if the screen is flipped, remove this command
-  tft.setRotation(3);
+  tft.setRotation(1);
+  tft.invertDisplay(false);
   tft.setSPISpeed(75000000);
   tft.fillScreen(ST77XX_BLACK);
-
+  tft.setTextColor(ST77XX_GREEN);
   tft.println("NES CAT: MEOW!...");
 #endif
 //--------------------------------------------------------------------------------
@@ -5666,7 +5679,7 @@ void setup() {
   kb_begin();
 #endif
 
-  install_timer(60); //60Hz 
+  install_timer(60); //60Hz
 
 //--------------------------------------------------------------------------------
 
@@ -5770,7 +5783,7 @@ inscart_success:
 #ifdef BLUETOOTH_ENABLED
       hid_update();
       PS4_JOY();
-#endif      
+#endif
     }
     delay(1000);
     NES_POWER = 1;
